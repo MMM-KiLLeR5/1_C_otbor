@@ -7,3 +7,5 @@
     
          pip install -r requirements.txt
          python main.py
+
+Ссылко на видео: https://disk.yandex.ru/d/mZTBpzIgzsidCA
